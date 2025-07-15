@@ -1,6 +1,6 @@
 # NLP AI Sandbox
 
-🚧 Work in Progress — adding more daily.
+🚧 Work in Progress - adding more daily.
 
 This is a growing collection of hands on NLP & AI projects built to deepen my understanding of:
 
